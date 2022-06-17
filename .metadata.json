@@ -1,0 +1,14 @@
+[
+  {
+    "package": "BrazilMet",
+    "oncran": true
+  },
+  {
+    "package": "cropDemand",
+    "oncran": true
+  },
+  {
+    "package": "cropZoning",
+    "oncran": true
+  }
+]
