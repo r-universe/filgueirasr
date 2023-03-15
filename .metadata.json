@@ -1,6 +1,6 @@
 [
   {
-    "package": "BrazilMet",
+    "package": "cropZoning",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "cropZoning",
+    "package": "BrazilMet",
     "oncran": true
   }
 ]
