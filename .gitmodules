@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BrazilMet"]
 	path = BrazilMet
 	url = https://github.com/filgueirasr/brazilmet
-	shallow = true
-	registered = true
 [submodule "cropDemand"]
 	path = cropDemand
 	url = https://github.com/filgueirasr/cropdemand
-	shallow = true
-	registered = true
 [submodule "cropZoning"]
 	path = cropZoning
 	url = https://github.com/filgueirasr/cropzoning
-	shallow = true
-	registered = true
